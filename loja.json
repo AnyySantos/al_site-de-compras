@@ -1,0 +1,68 @@
+{
+    "Caderno Os Estrangeiros": {
+    "item": "Caderno",
+    "colecao": "Os Estrangeiros",
+    "preco": 14.9,
+        "imagem": "./img/estrangeirosCaderno.png"
+    },
+    "Caneca Os Estrangeiros": {
+        "item": "Caneca",
+        "colecao": "Os Estrangeiros",
+        "preco": 6.9,
+        "imagem": "./img/estrangeirosCaneca.png"
+    },
+    "Bonecos Os Estrangeiros": {
+        "item": "Bonecos",
+        "colecao": "Os Estrangeiros",
+        "preco": 41.9,
+        "imagem": ""
+    },
+    "Capinha Os Estrangeiros": {
+        "item": "Capinha",
+        "colecao": "Os Estrangeiros",
+        "preco": 41.9,
+        "imagem": "./img/estrangeirosCapinhaCelular.png"
+    },
+    "Almofada Os Estrangeiros": {
+        "item": "Almofada",
+        "colecao": "Os Estrangeiros",
+        "preco": 14.9,
+        "imagem": "./img/estrangeirosAlmofada.png"
+    },
+    "Camiseta Os Estrangeiros": {
+        "item": "Camisa",
+        "colecao": "Os Estrangeiros",
+        "preco": 14.9,
+        "imagem": "./img/estrangeirosCamiseta.png"
+    },
+    "Copo de Café Os Estrangeiros": {
+        "item": "Copo de Café",
+        "colecao": "Os Estrangeiros",
+        "preco": 14.9,
+        "imagem": "./img/estrangeirosCopoCafe.png"
+    },
+    "Moletom Os Estrangeiros": {
+        "item": "Moletom",
+        "colecao": "Os Estrangeiros",
+        "preco": 14.9,
+        "imagem": "./img/estrangeirosAgasalho.png"
+    },
+    "Sacola Os Estrangeiros": {
+        "item": "Moletom",
+        "colecao": "Os Estrangeiros",
+        "preco": 14.9,
+        "imagem": "./img/estrangeirosSacola.png"
+    },
+    "Garrafinha Os Estrangeiros": {
+        "item": "Garrafinha de Água",
+        "colecao": "Os Estrangeiros",
+        "preco": 14.9,
+        "imagem": "./img/estrangeirosGarrafa.png"
+    },
+    "Livro Os Estrangeiros": {
+        "item": "Livro",
+        "colecao": "Os Estrangeiros",
+        "preco": 14.9,
+        "imagem": "./img/estrangeirosLivro.png"
+    }
+}
